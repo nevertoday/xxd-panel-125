@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 125｜Naïve Crayon Whitespace: redraws the key subject of a photo as a naive, childlike crayon and oil-pastel drawing with loose, rough, broken outlines, simplified proportions and visible paper gaps, grain and scuffs, in 2–4 soft natural colours from the photo on warm off-white paper plus one bright orange, coral, warm red or yellow accent, set as a small stamp-like figure in large whitespace with a few words in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-125 or asks for crayon, oil pastel, naive picture-book illustration from a photo.",
+  "short_description": "蜡笔童趣留白志：用稚拙的蜡笔油画棒笔触，把照片画成带一抹亮色的绘本小图",
+  "zh-CN": {
+    "name": "蜡笔童趣留白志",
+    "tagline": "用稚拙的蜡笔和油画棒，把照片的主体画成一枚带亮色点睛的绘本小图。",
+    "look": "主体被画成孩子气的蜡笔、油画棒手绘：轮廓线松散、粗粝、时断时续，比例和透视都简化了，但一眼能认出是谁。纸面上看得到蜡笔涂不满的空隙、颗粒、摩擦和刮蹭。颜色从照片里取 2–4 种，在温暖米白纸色上配浅蓝、草绿、土黄、灰绿等柔和自然色，再用一处橙色、珊瑚色或亮黄点睛。主体像一枚小章印，周围是大片留白，配几个字词或短句，语种不限。",
+    "traits": [
+      "蜡笔油画棒",
+      "纸隙颗粒",
+      "粗粝断线",
+      "稚拙造型",
+      "单一亮色点睛",
+      "绘本留白"
+    ],
+    "good": [
+      "形状好认的单个主体：一只狗、一辆小车、一个苹果、一顶帽子",
+      "温暖的日常瞬间：孩子跑步、晒太阳的猫、阳台上的植物",
+      "想做成绘本、贺卡、儿童房装饰的家庭或旅行照片"
+    ],
+    "poor": [
+      "需要精确比例和细节的图：产品图、建筑图纸、证件照",
+      "主体很多、关系复杂的场景，画出来会散",
+      "想要写实、光滑矢量、3D 或荧光糖果色的效果"
+    ]
+  },
+  "en": {
+    "name": "Naïve Crayon Whitespace",
+    "tagline": "Draws your photo's subject in childlike crayon and oil pastel, like a small picture-book stamp with one bright accent.",
+    "look": "The subject is drawn in a childlike crayon and oil-pastel hand: loose, rough, broken outlines and simplified proportions and perspective, yet still clearly recognisable. You can see the paper showing through the crayon, plus grain, friction and scuffs. Two to four colours come from the photo, set on warm off-white paper as soft natural tones such as pale blue, grass green, ochre and sage, with a single brighter spot of orange, coral, warm red or yellow. The subject sits like a small stamp in wide empty space, with a few words or a short phrase in any language.",
+    "traits": [
+      "Crayon and oil pastel",
+      "Paper-gap grain",
+      "Rough broken lines",
+      "Naive shapes",
+      "One bright accent",
+      "Picture-book whitespace"
+    ],
+    "good": [
+      "A single subject with an easy-to-read shape: a dog, a small car, an apple, a hat",
+      "Warm everyday moments: a child running, a cat in the sun, plants on a balcony",
+      "Family or travel photos you want as a picture book page, greeting card or nursery print"
+    ],
+    "poor": [
+      "Images that need exact proportions and detail: product shots, architectural drawings, ID photos",
+      "Scenes with many subjects and complex relationships, which fall apart when drawn",
+      "Requests for realistic, smooth vector, 3D or neon candy-coloured looks"
+    ]
+  },
+  "ja": {
+    "name": "クレヨン童画の余白",
+    "tagline": "素朴なクレヨンとオイルパステルで、写真の主役を明るい差し色のある絵本の小さな絵にします。",
+    "look": "主役を子どもが描いたようなクレヨンとオイルパステルの絵にします。輪郭線はゆるく、ざらつき、ところどころ途切れ、比率や遠近も簡略化しますが、何を描いたかはひと目でわかります。紙には塗り残しのすき間、粒子、こすれ、ひっかき跡が見えます。色は写真から 2〜4 色を取り、温かい生成りの紙に淡い青、草色、黄土、灰緑などの柔らかな自然色を置き、オレンジ、コーラル、明るい黄色などを一か所だけ効かせます。主役は小さなスタンプのように置かれ、周りは大きな余白。単語か短い一言を添え、言語は自由です。",
+    "traits": [
+      "クレヨンとオイルパステル",
+      "紙のすき間の粒子",
+      "ざらついた途切れ線",
+      "素朴な形",
+      "ひとつの明るい差し色",
+      "絵本の余白"
+    ],
+    "good": [
+      "形がわかりやすい一つの主役：犬、小さな車、りんご、帽子",
+      "温かい日常の瞬間：走る子ども、日なたの猫、ベランダの植物",
+      "絵本、カード、子ども部屋の飾りにしたい家族写真や旅行写真"
+    ],
+    "poor": [
+      "正確な比率や細部が必要な画像：商品写真、建築図面、証明写真",
+      "主役が多く関係が複雑な場面（描くとまとまりがなくなります）",
+      "写実、なめらかなベクター、3D、蛍光のキャンディカラーを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "소박한 크레용의 여백",
+    "tagline": "서툰 크레용과 오일 파스텔로 사진의 주인공을 밝은 포인트 색 하나가 있는 그림책 속 작은 그림으로 그립니다.",
+    "look": "주인공을 아이가 그린 듯한 크레용, 오일 파스텔 그림으로 바꿉니다. 윤곽선은 느슨하고 거칠며 군데군데 끊기고, 비율과 원근도 단순해지지만 무엇인지는 한눈에 알아볼 수 있습니다. 종이에는 크레용이 덜 칠해진 틈, 입자, 마찰과 긁힌 자국이 보입니다. 색은 사진에서 2~4가지를 골라 따뜻한 미색 종이 위에 연한 파랑, 풀색, 황토, 회녹색 같은 부드러운 자연색으로 두고, 주황, 코랄, 밝은 노랑 중 한 곳만 선명하게 찍습니다. 주인공은 작은 도장처럼 놓이고 주변은 넓은 여백이며, 단어나 짧은 문장을 언어 제한 없이 곁들입니다.",
+    "traits": [
+      "크레용과 오일 파스텔",
+      "종이 틈 입자",
+      "거친 끊긴 선",
+      "소박한 형태",
+      "밝은 포인트 색 하나",
+      "그림책 여백"
+    ],
+    "good": [
+      "형태를 알아보기 쉬운 하나의 주인공: 강아지, 작은 자동차, 사과, 모자",
+      "따뜻한 일상의 순간: 달리는 아이, 햇볕 쬐는 고양이, 베란다의 화분",
+      "그림책, 카드, 아이 방 장식으로 쓰고 싶은 가족·여행 사진"
+    ],
+    "poor": [
+      "정확한 비율과 세부가 필요한 이미지: 제품 사진, 건축 도면, 증명사진",
+      "주인공이 많고 관계가 복잡한 장면(그리면 흩어집니다)",
+      "사실적이거나 매끈한 벡터, 3D, 형광 사탕색 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "فراغ الكرايون العفوي",
+    "tagline": "يرسم العنصر الرئيسي في صورتك بأقلام الكرايون والباستيل الزيتي بأسلوب طفولي، كختم صغير في كتاب مصوّر مع لمسة لون زاهية.",
+    "look": "يُرسم العنصر بيد طفولية بالكرايون والباستيل الزيتي: خطوط خارجية فضفاضة وخشنة ومتقطعة، ونِسب ومنظور مبسّطان، لكن العنصر يبقى معروفاً من النظرة الأولى. يظهر الورق من بين ضربات الكرايون مع الحبيبات وأثر الاحتكاك والخدوش. تُؤخذ من الصورة اثنان إلى أربعة ألوان وتوضع على ورق أبيض مائل إلى الكريمي بدرجات طبيعية ناعمة كالأزرق الفاتح والأخضر العشبي والأصفر الترابي والأخضر الرمادي، مع بقعة واحدة أكثر إشراقاً بالبرتقالي أو المرجاني أو الأحمر الدافئ أو الأصفر. يجلس العنصر كختم صغير وسط فراغ واسع، مع كلمات قليلة أو عبارة قصيرة بأي لغة.",
+    "traits": [
+      "كرايون وباستيل زيتي",
+      "حبيبات بين ضربات اللون",
+      "خطوط خشنة متقطعة",
+      "أشكال عفوية",
+      "لمسة لون زاهية واحدة",
+      "فراغ كتاب مصوّر"
+    ],
+    "good": [
+      "عنصر واحد بشكل سهل القراءة: كلب، سيارة صغيرة، تفاحة، قبعة",
+      "لحظات يومية دافئة: طفل يركض، قطة في الشمس، نباتات على الشرفة",
+      "صور عائلية أو صور سفر تريدها صفحة في كتاب مصوّر أو بطاقة أو لوحة لغرفة طفل"
+    ],
+    "poor": [
+      "صور تحتاج إلى نِسب وتفاصيل دقيقة: صور المنتجات، الرسوم المعمارية، صور الهوية",
+      "مشاهد فيها عناصر كثيرة وعلاقات معقدة، تتفكك عند رسمها",
+      "طلب مظهر واقعي أو رسوم متجهية ملساء أو ثلاثية الأبعاد أو ألوان فسفورية حلوة"
+    ]
+  }
+}
